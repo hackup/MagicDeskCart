@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MagicDeskCart)(type Legacy)(uri ${KIPRJMOD}/lib/MagicDeskCart.lib)(options "")(descr ""))
+)
