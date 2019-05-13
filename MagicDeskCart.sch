@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:MagicDeskCart-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -109,7 +110,7 @@ L device:C C1
 U 1 1 5CDA9E13
 P 10450 3500
 F 0 "C1" H 10565 3546 50  0000 L CNN
-F 1 "C" H 10565 3455 50  0000 L CNN
+F 1 "100n" H 10565 3455 50  0000 L CNN
 F 2 "Capacitors_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 10488 3350 50  0001 C CNN
 F 3 "~" H 10450 3500 50  0001 C CNN
 	1    10450 3500
@@ -776,16 +777,6 @@ F 3 "" H 4700 4250 50  0001 C CNN
 	1    4700 4250
 	1    0    0    -1  
 $EndComp
-Wire Bus Line
-	4000 4350 4000 6300
-Wire Bus Line
-	8850 3350 8850 6300
-Wire Bus Line
-	1600 2700 1600 4350
-Wire Bus Line
-	3500 1350 3500 3600
-Wire Bus Line
-	7050 1350 7050 4350
 $Comp
 L Jumper:Jumper_3_Open JP1
 U 1 1 5CF03A6E
@@ -797,4 +788,14 @@ F 3 "~" H 6500 5300 50  0001 C CNN
 	1    6500 5300
 	1    0    0    1   
 $EndComp
+Wire Bus Line
+	4000 4350 4000 6300
+Wire Bus Line
+	8850 3350 8850 6300
+Wire Bus Line
+	1600 2700 1600 4350
+Wire Bus Line
+	3500 1350 3500 3600
+Wire Bus Line
+	7050 1350 7050 4350
 $EndSCHEMATC
