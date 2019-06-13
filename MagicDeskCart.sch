@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "MagicDeskCart"
 Date ""
-Rev "Rev.1"
+Rev "2"
 Comp "hackup.net"
 Comment1 "Based on the Magic Desk design by Msolajic and Zzarko."
 Comment2 ""
