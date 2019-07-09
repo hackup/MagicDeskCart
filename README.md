@@ -4,7 +4,7 @@ The MagicDeskCart is a simple bank switching cartridge for the C64/C128. It is a
 
 **WARNING**: In revision 1, the jumper labels have been accidentally reversed!
 
-![MagicDeskCart Rev.1 Front](media/magic-desk-cart-rev1-front.JPG)
+![MagicDeskCart Rev.1 Front](media/magic-desk-cart-rev1-front.jpg)
 
 
 See my [blog post](https://www.hackup.net/2019/07/bank-switching-cartridges/) for more details.
