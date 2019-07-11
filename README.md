@@ -1,6 +1,6 @@
 # MagicDeskCart
 
-The MagicDeskCart is a simple bank switching cartridge for the C64/C128. It is a rendition of a ["Magic Desk"](https://csdb.dk/release/?id=132937) compatible layout.
+The MagicDeskCart is a simple bank switching cartridge for the C64/C128. It is a rendition of a ["Magic Desk"](https://csdb.dk/release/?id=132937) compatible layout. There is also no warranty whatsoever. **USE AT YOUR OWN RISK!**.
 
 **WARNING**: In revision 1, the jumper labels have been accidentally reversed!
 
